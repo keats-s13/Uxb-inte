@@ -1,0 +1,1 @@
+SELECT * FROM test.informacion_ventas Where ventas > 500;
